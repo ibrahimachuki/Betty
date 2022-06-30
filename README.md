@@ -1,4 +1,4 @@
- ###Betty Linter
+### Betty Linter
 
  * Go to the Betty repository
  * Clone the repo to your local machine
